@@ -1,4 +1,5 @@
-# THIS IS NOT EVEN DONE YET, DONT BOTHER
+# THIS IS NOT EVEN DONE YET!
+dont worry, im workin on it
 
 # GAMEBOY COLOR DINGUS
 browncha's gba emulator but different
