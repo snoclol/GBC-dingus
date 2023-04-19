@@ -1,7 +1,7 @@
 # THIS IS NOT EVEN DONE YET!
 dont worry, im workin on it
 
-# GAMEBOY COLOR DINGUS
+# GAMEBOY EMULATOR DINGUS
 browncha's gba emulator but different
 
 # CREDITS
