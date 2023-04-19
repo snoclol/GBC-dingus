@@ -5,4 +5,4 @@ dont worry, im workin on it
 browncha's gba emulator but different
 
 # CREDITS
-taisel for the emulator and nintendo for owning everything here lol
+hylyh/hayley for the gameboy-web emulator and nintendo for owning everything here lol
