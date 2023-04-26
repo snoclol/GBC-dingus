@@ -1,5 +1,5 @@
-# THIS IS NOT EVEN DONE YET!
-dont worry, im workin on it
+# TESTING IT LOL
+it prolly wont work
 
 # GAMEBOY EMULATOR DINGUS
 browncha's gba emulator but different
